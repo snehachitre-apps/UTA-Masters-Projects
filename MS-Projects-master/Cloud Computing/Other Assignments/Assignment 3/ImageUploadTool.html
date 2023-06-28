@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+    <meta charset="UTF-8">
+    <title>Image Upload Tool</title>
+	<script type="text/javascript">
+
+function download_file(locate){
+	alert(locate);
+	window.open(locate);
+}
+
+function delete_file(url){
+	alert(url);
+	document.getElementById('FileName').value = url;
+	alert('filename is '+document.getElementById('FileName').value)
+	document.form3.alert('filename is '+document.getElementById('FileName').value)
+	document.form3.submit();
+
+}
+</script>
+</head>
+  <body>
+	
+    <h2>Welcome {{username}}</h2>
+
+    <h3> View images </h3>
+
+	
+	
+
+
+
+
+
+
+    <form method="post"  action="/files" id="form3">
+    <input  name="list" value="list" type="submit"> </input>
+        <input  name="DeleteAll" value="DeleteAll" type="submit"> </input>
+        <input type ="hidden" name="FileName" id="FileName"/>
+    <table>
+    {% for m in msg %}
+	    <tr>
+
+        <td> <img src="{{ m[0] }}" height="100" width="100"></td>
+        <td> {{ m[0] }}
+        <td> {{ m[2] }}</td>
+        <td> <input type = "button" value="download" name="download" onclick="download_file('{{ m[0]}}');"> </td>
+        <td><input  name="delete" value="delete" type="button" onclick="delete_file('{{ m[1] }}');" > </input></td>
+        <!--<td> <input type="button" value="delete" name="delete"       onclick="delete_file('{{m[1]}}')"> </td>-->
+        </tr>
+    {% endfor %}
+
+
+    </table>
+
+    </form>
+    <form method="post" action="/logout" id="l1">
+	<input type="submit" value="Logout"></input>
+    </form>
+	
+
+
+
+</body>
+
+</html>
+

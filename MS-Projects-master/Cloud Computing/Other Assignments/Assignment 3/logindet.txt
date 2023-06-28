@@ -1,0 +1,4 @@
+Harsh, secret, 10
+Mike, hidden, 20
+Dummy, plain, 2
+sneha, chitre, 1

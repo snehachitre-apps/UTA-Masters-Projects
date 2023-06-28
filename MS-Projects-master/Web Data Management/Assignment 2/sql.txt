@@ -1,0 +1,37 @@
+CREATE TABLE Warehouse (
+WarehouseCode VARCHAR(20),
+    name VARCHAR(40),
+    address VARCHAR(100),
+    phone VARCHAR(20)
+   PRIMARY KEY(WarehouseCode)
+    
+);
+
+
+CREATE TABLE Stocks (
+
+    ISBN VARCHAR(13) ,
+    WarehouseCode 
+    PRIMARY KEY(ssn,ISBN),
+     FOREIGN KEY (ssn) REFERENCES author(ssn) ON UPDATE CASCADE ON DELETE CASCADE, 
+     FOREIGN KEY (ISBN) REFERENCES book(ISBN)  ON UPDATE CASCADE ON DELETE CASCADE
+    
+);
+CREATE TABLE Contains (
+
+    ISBN VARCHAR(13) ,
+    basketID VARCHAR(20),
+    number VARChar (20),
+    PRIMARY KEY(ISBN,basketID),
+    FOREIGN KEY (ISBN) REFERENCES book(ISBN) ON UPDATE CASCADE ON DELETE CASCADE ,
+    FOREIGN KEY (basketID) REFERENCES shoppingbasket(basketID) ON UPDATE CASCADE ON DELETE CASCADE 
+     
+    
+);
+
+
+//increase column size
+ALTER TABLE Book MODIFY publisher VARCHAR(100);
+
+
+

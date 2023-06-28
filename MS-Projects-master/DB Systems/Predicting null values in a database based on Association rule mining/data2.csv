@@ -1,0 +1,216 @@
+Operating Airline,Published Airline,Source ,Destination,Terminal
+ATA Airlines,Alaska Airlines,Alaska,LA,Terminal 3
+ATA Airlines,Alaska Airlines,Alaska,LA,Terminal 1
+ATA Airlines,Alaska Airlines,Alaska,LA,Terminal 1
+ATA Airlines,Alaska Airlines,LA,Alaska,Terminal 2
+ATA Airlines,Alaska Airlines,LA,Alaska,Terminal 2
+ATA Airlines,Alaska Airlines,LA,Alaska,Terminal 3
+ATA Airlines,Alaska Airlines,Alaska,Florida,Terminal 3A
+ATA Airlines,Alaska Airlines,Alaska,Florida,Terminal 2A
+ATA Airlines,Alaska Airlines,Florida,Alaska,Terminal 2A
+ATA Airlines,Alaska Airlines,Florida,Alaska,Terminal 2A
+ATA Airlines,Alaska Airlines,Alaska,,Terminal 3A
+ATA Airlines,Alaska Airlines,Alaska,Florida,Terminal 3A
+ATA Airlines,Alaska Airlines,Florida,Alaska,Terminal 2B
+ATA Airlines,Alaska Airlines,Florida,Alaska,Terminal 2A
+ATA Airlines,Alaska Airlines,Alaska,Chicago,Terminal 2A
+ATA Airlines,Alaska Airlines,Alaska,Chicago,Terminal 2A
+ATA Airlines,Alaska Airlines,Alaska,Chicago,Terminal 2A
+ATA Airlines,Alaska Airlines,Alaska,Chicago,Terminal 2A
+ATA Airlines,Alaska Airlines,Chicago,Alaska,Terminal 2A
+ATA Airlines,Alaska Airlines,Chicago,Alaska,Terminal 2A
+ATA Airlines,Alaska Airlines,Chicago,Alaska,Terminal 2A
+ATA Airlines,Alaska Airlines,Chicago,Alaska,Terminal 1
+ATA Airlines,Alaska Airlines,Alaska,Chicago,Terminal 1
+ATA Airlines,Alaska Airlines,Alaska,Chicago,Terminal 1
+ATA Airlines,Alaska Airlines,Chicago,Alaska,Terminal 2A
+ATA Airlines,Alaska Airlines,Chicago,Alaska,Terminal 2A
+ATA Airlines,Alaska Airlines,Alaska,Chicago,Terminal 2A
+ATA Airlines,Alaska Airlines,Alaska,Chicago,Terminal 2A
+ATA Airlines,Alaska Airlines,Alaska,Chicago,Terminal 2A
+ATA Airlines,Alaska Airlines,Chicago,Alaska,Terminal 1
+ATA Airlines,Alaska Airlines,Chicago,Alaska,Terminal 2A
+ATA Airlines,Alaska Airlines,Chicago,Alaska,Terminal 2A
+ATA Airlines,Alaska Airlines,Alaska,Chicago,Terminal 2A
+ATA Airlines,Alaska Airlines,Alaska,Chicago,Terminal 2A
+ATA Airlines,Alaska Airlines,Chicago,Alaska,Terminal 2A
+ATA Airlines,Alaska Airlines,Chicago,Alaska,Terminal 2A
+Air France,Air France,Heathrow,Paris,Terminal 5
+Air France,Air France,Heathrow,Paris,Terminal 5
+Air France,Air France,Heathrow,Paris,Terminal 5
+Air France,Air France,Heathrow,Paris,Terminal 5
+Air France,Air France,Heathrow,Paris,Terminal 3
+Air France,Air France,Paris,Heathrow,Terminal 4
+Air France,Air France,Paris,Heathrow,Terminal 4
+Air France,Air France,Paris,Heathrow,Terminal 4
+Air France,Air France,Paris,Heathrow,Terminal 4
+Air France,Air France,Paris,Heathrow,Terminal 3
+Air France,Air France,Bonn,Paris,Terminal 4
+Air France,Air France,Bonn,Paris,Terminal 4
+Air France,Air France,Bonn,Paris,Terminal 4
+Air France,Air France,Bonn,Paris,Terminal 4
+Air France,Air France,Bonn,Paris,Terminal 4
+Air France,Air France,Paris,Bonn,Terminal 3
+Air France,Air France,Paris,Bonn,Terminal 3
+Air France,Air France,Paris,Bonn,Terminal 3
+Air France,Air France,Paris,Bonn,Terminal 3
+Air France,Air France,Paris,Bonn,Terminal 3
+Air France,Air France,Bonn,Paris,Terminal 4
+Air France,Air France,Bonn,Paris,Terminal 4
+Air France,Air France,Bonn,Paris,Terminal 4
+Air France,Air France,Paris,Bonn,Terminal 3
+Air France,Air France,Paris,Bonn,Terminal 3
+Air France,Air France,Paris,Bonn,Terminal 3
+Air France,Air France,Paris,Zurich,Terminal 3
+Air France,Air France,Paris,Zurich,Terminal 3
+Air France,Air France,Paris,Zurich,Terminal 3
+Air France,Air France,Paris,Zurich,Terminal 3
+Air France,Air France,Paris,Zurich,Terminal 3
+Air France,Air France,Paris,Zurich,Terminal 3
+Air France,Air France,Paris,Zurich,Terminal 3
+Air France,Air France,Paris,Zurich,Terminal 3
+Air France,Air France,Paris,Zurich,Terminal 3
+Air France,Air France,Paris,Zurich,Terminal 3
+Air France,Air France,Paris,Zurich,Terminal 3
+Air France,Air France,Paris,Zurich,Terminal 3
+Air France,Air France,Paris,Zurich,Terminal 3
+Air France,Air France,Paris,Zurich,Terminal 3
+Air France,Air France,Paris,Zurich,Terminal 3
+Air France,Air France,Zurich,Paris,Terminal 2
+Air France,Air France,Zurich,Paris,Terminal 2
+Air France,Air France,Zurich,Paris,Terminal 2
+Air France,Air France,Zurich,Paris,Terminal 2
+Air France,Air France,Zurich,Paris,Terminal 2
+Air France,Air France,Zurich,Paris,Terminal 2
+Air France,Air France,Zurich,Paris,Terminal 2
+Air France,Air France,Zurich,Paris,Terminal 2
+Air France,Air France,Zurich,Paris,Terminal 2
+Air France,Air France,Zurich,Paris,Terminal 2
+Air France,Air France,Zurich,Paris,Terminal 2
+Air France,Air France,Zurich,Paris,Terminal 2
+Air France,Air France,Zurich,Paris,Terminal 2
+Air France,Air France,Zurich,Paris,Terminal 2
+Air France,Air France,Zurich,Paris,Terminal 2
+Japan Airlines,Japan Airlines,Tokyo,Delhi,Terminal 5
+Japan Airlines,Japan Airlines,Tokyo,Delhi,Terminal 5
+Japan Airlines,Japan Airlines,Tokyo,Delhi,Terminal 5
+Japan Airlines,Japan Airlines,Tokyo,Delhi,Terminal 5
+Japan Airlines,Japan Airlines,Tokyo,Delhi,Terminal 5
+Japan Airlines,Japan Airlines,Tokyo,Delhi,Terminal 5
+Japan Airlines,Japan Airlines,Tokyo,Delhi,Terminal 5
+Japan Airlines,Japan Airlines,Tokyo,Delhi,Terminal 5
+Japan Airlines,Japan Airlines,Tokyo,Delhi,Terminal 5
+Japan Airlines,Japan Airlines,Tokyo,Delhi,Terminal 5
+Japan Airlines,Japan Airlines,Tokyo,Delhi,Terminal 5
+Japan Airlines,Japan Airlines,Tokyo,Delhi,Terminal 5
+Japan Airlines,Japan Airlines,Tokyo,Delhi,Terminal 5
+Japan Airlines,Japan Airlines,Tokyo,Delhi,Terminal 5
+Japan Airlines,Japan Airlines,Tokyo,Delhi,Terminal 5
+Japan Airlines,Japan Airlines,Tokyo,Delhi,Terminal 5
+Japan Airlines,Japan Airlines,Tokyo,Delhi,Terminal 5
+Japan Airlines,Japan Airlines,Tokyo,Delhi,Terminal 4
+Japan Airlines,Japan Airlines,Tokyo,Delhi,Terminal 4
+Japan Airlines,Japan Airlines,Delhi,Tokyo,Terminal 3
+Japan Airlines,Japan Airlines,Delhi,Tokyo,Terminal 3
+Japan Airlines,Japan Airlines,Delhi,Tokyo,Terminal 3
+Japan Airlines,Japan Airlines,Delhi,Tokyo,Terminal 3
+Japan Airlines,Japan Airlines,Delhi,Tokyo,Terminal 3
+Japan Airlines,Japan Airlines,Delhi,Tokyo,Terminal 3
+Japan Airlines,Japan Airlines,Delhi,Tokyo,Terminal 3
+Japan Airlines,Japan Airlines,Delhi,Tokyo,Terminal 3
+Japan Airlines,Japan Airlines,Delhi,Tokyo,Terminal 3
+Japan Airlines,Japan Airlines,Delhi,Tokyo,Terminal 3
+Japan Airlines,Japan Airlines,Delhi,Tokyo,Terminal 3
+Japan Airlines,Japan Airlines,Delhi,Tokyo,Terminal 3
+Japan Airlines,Japan Airlines,Delhi,Tokyo,Terminal 3
+Japan Airlines,Japan Airlines,Delhi,Tokyo,Terminal 3
+Japan Airlines,Japan Airlines,Delhi,Tokyo,Terminal 3
+Japan Airlines,Japan Airlines,Delhi,Tokyo,Terminal 3
+Japan Airlines,Japan Airlines,Delhi,Tokyo,Terminal 3
+Japan Airlines,Japan Airlines,Delhi,Tokyo,Terminal 3
+Japan Airlines,Japan Airlines,Delhi,Tokyo,Terminal 3
+Japan Airlines,Japan Airlines,Delhi,Tokyo,Terminal 3
+Japan Airlines,Japan Airlines,Delhi,Tokyo,Terminal 3
+Japan Airlines,Japan Airlines,Delhi,Tokyo,Terminal 3
+Japan Airlines,Japan Airlines,Delhi,Tokyo,Terminal 3
+Japan Airlines,Japan Airlines,Delhi,Tokyo,Terminal 5
+Japan Airlines,Japan Airlines,Beijing,Tokyo,Terminal 3
+Japan Airlines,Japan Airlines,Beijing,Tokyo,Terminal 3
+Japan Airlines,Japan Airlines,Beijing,Tokyo,Terminal 3
+Japan Airlines,Japan Airlines,Beijing,Tokyo,Terminal 3
+Japan Airlines,Japan Airlines,Beijing,Tokyo,Terminal 4
+Japan Airlines,Japan Airlines,Beijing,Tokyo,Terminal 4
+Japan Airlines,Japan Airlines,Tokyo,Beijing,Terminal 4
+Japan Airlines,Japan Airlines,Tokyo,Beijing,Terminal 5
+Japan Airlines,Japan Airlines,Tokyo,Beijing,Terminal 5
+Japan Airlines,Japan Airlines,Tokyo,Beijing,Terminal 5
+Japan Airlines,Japan Airlines,Tokyo,Beijing,Terminal 5
+Japan Airlines,Japan Airlines,Tokyo,Beijing,Terminal 5
+Lufthansa,Air India,Delhi,Munich,Terminal 4
+Lufthansa,Air India,Delhi,Munich,Terminal 4
+Lufthansa,Air India,Delhi,Munich,Terminal 4
+Lufthansa,Air India,Delhi,Munich,Terminal 4
+Lufthansa,Air India,Delhi,Munich,Terminal 4
+Lufthansa,Air India,Delhi,Munich,Terminal 4
+Lufthansa,Air India,Munich,Delhi,Terminal 4
+Lufthansa,Air India,Munich,Delhi,Terminal 4
+Lufthansa,Air India,Munich,Delhi,Terminal 4
+Lufthansa,Air India,Munich,Delhi,Terminal 4
+Lufthansa,Air India,Munich,Delhi,Terminal 4
+Lufthansa,Air India,Munich,Delhi,Terminal 2
+Lufthansa,Air India,Munich,Mumbai,Terminal 4
+Lufthansa,Air India,Munich,Mumbai,Terminal 4
+Lufthansa,Air India,Munich,Mumbai,Terminal 4
+Lufthansa,Air India,Munich,Mumbai,Terminal 4
+Lufthansa,Air India,Munich,Mumbai,Terminal 4
+Lufthansa,Air India,Munich,Mumbai,Terminal 4
+Lufthansa,Air India,Munich,Mumbai,Terminal 4
+Lufthansa,Air India,Munich,Mumbai,Terminal 4
+Lufthansa,Air India,Munich,Mumbai,Terminal 4
+Lufthansa,Air India,Munich,Mumbai,Terminal 4
+Lufthansa,Air India,Munich,Mumbai,Terminal 4
+Lufthansa,Air India,Munich,Mumbai,Terminal 4
+Lufthansa,Air India,Munich,Mumbai,Terminal 4
+Lufthansa,Air India,Munich,Mumbai,Terminal 4
+Lufthansa,Air India,Munich,Mumbai,Terminal 4
+Lufthansa,Air India,Munich,Mumbai,Terminal 2
+Lufthansa,Air India,Munich,Mumbai,Terminal 2
+Lufthansa,Air India,Munich,Mumbai,Terminal 2
+Lufthansa,Air India,Mumbai,Munich,Terminal 5
+Lufthansa,Air India,Mumbai,Munich,Terminal 5
+Lufthansa,Air India,Mumbai,Munich,Terminal 5
+Lufthansa,Air India,Mumbai,Munich,Terminal 5
+Lufthansa,Air India,Mumbai,Munich,Terminal 5
+Lufthansa,Air India,Mumbai,Munich,Terminal 5
+Lufthansa,Air India,Mumbai,Munich,Terminal 5
+Lufthansa,Air India,Mumbai,Munich,Terminal 5
+Lufthansa,Air India,Mumbai,Munich,Terminal 5
+Lufthansa,Air India,Mumbai,Munich,Terminal 5
+Lufthansa,Air India,Mumbai,Munich,Terminal 5
+Lufthansa,Air India,Mumbai,Munich,Terminal 5
+Lufthansa,Air India,Mumbai,Munich,Terminal 5
+Lufthansa,Air India,Mumbai,Munich,Terminal 5
+Lufthansa,Air India,Mumbai,Munich,Terminal 5
+Lufthansa,Air India,Mumbai,Munich,Terminal 5
+Lufthansa,Air India,Mumbai,Munich,Terminal 5
+Lufthansa,Air India,Mumbai,Munich,Terminal 4
+Lufthansa,Air India,Munich,Banglore,Terminal 4
+Lufthansa,Air India,Munich,Banglore,Terminal 4
+Lufthansa,Air India,Munich,Banglore,Terminal 4
+Lufthansa,Air India,Munich,Banglore,Terminal 4
+Lufthansa,Air India,Banglore,Munich,
+Lufthansa,Air India,Banglore,Munich,Terminal 1
+Lufthansa,Air India,Banglore,Munich,Terminal 1
+Lufthansa,Air India,Banglore,Munich,Terminal 1
+Lufthansa,Air India,Mumbai,Berlin,Terminal 5
+Lufthansa,Air India,Mumbai,Berlin,Terminal 5
+Lufthansa,Air India,Mumbai,Berlin,Terminal 5
+Lufthansa,Air India,Mumbai,Berlin,Terminal 4
+Lufthansa,Air India,Mumbai,Berlin,Terminal 5
+Lufthansa,Air India,Mumbai,Berlin,
+Lufthansa,,Berlin,Mumbai,Terminal 3
+Lufthansa,Air India,Berlin,Mumbai,Terminal 3
+Lufthansa,Air India,Berlin,Mumbai,Terminal 3
+Lufthansa,Air India,Berlin,Mumbai,Terminal 3
+Lufthansa,Air India,Berlin,Mumbai,Terminal 3
+Lufthansa,Air India,Berlin,Mumbai,Terminal 3

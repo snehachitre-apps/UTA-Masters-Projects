@@ -1,0 +1,14 @@
+>>> runfile('C:/Users/Sneha/Desktop/PYTHON/q2d.py', wdir='C:/Users/Sneha/Desktop/PYTHON')
+mean of 200 averages with 6 samples per average 5.68533139618
+mean of 200 averages with 12 samples per average 5.57849936127
+mean of 200 averages with 24 samples per average 5.48671835759
+mean of 200 averages with 48 samples per average 5.46689367829
+
+
+finalnice
+>>> runfile('C:/Users/Sneha/Desktop/PYTHON/q2d.py', wdir='C:/Users/Sneha/Desktop/PYTHON')
+mean of 200 averages with 6 samples per average 0.495458678917
+mean of 200 averages with 12 samples per average 0.503220591596
+mean of 200 averages with 24 samples per average 0.500381046372
+mean of 200 averages with 48 samples per average 0.502058037663
+>>> 
